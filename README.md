@@ -66,3 +66,7 @@ cp -r astrbot_plugin_reply_directly  YOUR_ASTRBOT_DIR/data/plugins/
 
 喜欢本项目？欢迎点个 ⭐！  
 有任何问题或建议，请前往 [GitHub Issues](https://github.com/qa296/astrbot_plugin_reply_directly/issues) 讨论。
+
+## QQ群
+因为作者并不经常看issue，所以可以通过QQ群来提醒我！
+群号：1098607348
