@@ -1,8 +1,6 @@
 # Reply Directly – 智能群聊增强插件（AstrBot）
 
 > 让机器人在群聊里像真人一样“会聊天”，支持**沉浸式连续对话**与**主动插话**两大核心能力。  
-> 项目地址：[GitHub](https://github.com/qa296/astrbot_plugin_reply_directly)
-
 ---
 
 </div>
